@@ -33,7 +33,7 @@ Before running this project, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/C9Teenz/simpe_book_explorer.git
 cd simple_book_explorer
 ```
 
