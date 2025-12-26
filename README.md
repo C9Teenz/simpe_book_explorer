@@ -127,8 +127,7 @@ lib/
 │       │   └── datasources/
 │       ├── domain/         # Domain layer
 │       │   ├── entities/
-│       │   ├── repositories/
-│       │   └── usecases/
+│       │   └── repositories/
 │       └── presentation/   # Presentation layer
 │           ├── bloc/
 │           └── ui/
